@@ -5,7 +5,7 @@ const HomePage = () => {
     const navigate = useNavigate();
 
     function navigateHandler() {
-        navigate('/profucts');
+        navigate('/products');
     }
 
     return (
